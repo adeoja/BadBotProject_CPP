@@ -1,11 +1,8 @@
-// Fill out your copyright notice in the Description page of Project Settings.
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "GameFramework/PlayerController.h"
 #include "Drone.generated.h"
-
 
 UCLASS()
 class BADBOT_API ADrone : public AActor
@@ -26,11 +23,11 @@ public:
 	
 private:
 	UPROPERTY()
-	APawn* DefaultPawn;
+	APawn* DefaultPawn = nullptr;
 	
-	UPROPERTY(EditAnywhere)
-	UStaticMeshComponent* Drone;
+	UPROPERTY(EditAnywhere, Category = "Drone Mesh")
+	UStaticMeshComponent* DroneMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("DroneMesh"));
 
-	UPROPERTY(EditAnywhere)
-	float InterpSpd;
+	UPROPERTY(EditAnywhere, Category = "Drone Rotator")
+	float InterpSpd = 4;
 };

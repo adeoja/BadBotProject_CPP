@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BadBot.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\BadBotEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\BadBot.init.gen.cpp.obj"
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\Drone.gen.cpp.obj"
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\BadBot.cpp.obj"
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\Drone.cpp.obj"
+"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\Default.rc2.res"
+/OUT:"C:\Users\deoja\OneDrive\Documentos\GitHub\BadBotProject_CPP\BadBot\Intermediate\Build\Win64\x64\UnrealEditor\Development\BadBot\UnrealEditor-BadBot.lib"

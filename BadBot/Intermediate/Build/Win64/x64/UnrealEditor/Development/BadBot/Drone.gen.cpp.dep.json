@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\deoja\\onedrive\\documentos\\github\\badbotproject_cpp\\badbot\\intermediate\\build\\win64\\unrealeditor\\inc\\badbot\\uht\\drone.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\deoja\\onedrive\\documentos\\github\\badbotproject_cpp\\badbot\\intermediate\\build\\win64\\x64\\badboteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\deoja\\onedrive\\documentos\\github\\badbotproject_cpp\\badbot\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\badbot\\definitions.badbot.h",
+            "c:\\users\\deoja\\onedrive\\documentos\\github\\badbotproject_cpp\\badbot\\source\\badbot\\drone.h",
+            "c:\\users\\deoja\\onedrive\\documentos\\github\\badbotproject_cpp\\badbot\\intermediate\\build\\win64\\unrealeditor\\inc\\badbot\\uht\\drone.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
