@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/deoja/OneDrive/Documentos/GitHub/BadBotProject_CPP/BadBot/Content/Maps/Blank.umap",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/M_Drone.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/M_DroneGlass.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/T_Drone_BC.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/T_Drone_EM.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/T_Drone_NRM.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/DroneMats/T_Drone_ORM.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Blueprints/BP_Drone.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Maps/Blank.umap",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/SM_Drone_Two_Mats.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Blueprints/MyDroneCPP.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Blueprints/MyDronePractice.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Blueprints/BP_DroneCPP.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/M_Drone.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Drone/M_DroneGlass.uasset",
+				"C:/Users/deoja/OneDrive/Documentos/Unreal Projects/BadBot/Content/Blueprints/MyPracticeDrone.uasset"
+			]
+		}
+	]
+}
